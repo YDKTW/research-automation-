@@ -15,3 +15,13 @@ tmp/
 # local backups
 *.bak
 __pycache__/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local backups
+*.bak
+
+# OS/editor noise
+.DS_Store
