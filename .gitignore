@@ -11,3 +11,7 @@ data/
 outputs/
 tmp/
 .DS_Store
+
+# local backups
+*.bak
+__pycache__/
